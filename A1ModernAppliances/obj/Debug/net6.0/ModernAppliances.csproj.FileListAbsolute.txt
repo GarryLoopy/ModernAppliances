@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Owner\Desktop\SAIT\SEM2\CPRG-211-OOP\Assignment 1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
